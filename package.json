@@ -1,0 +1,11 @@
+{
+  "name": "make_up",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo 'Static website running'",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {}
+}
